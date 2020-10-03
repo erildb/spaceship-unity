@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a08b36f55983bb4bbff907aac67a62a, type: 3}
+  m_Name: Task1
+  m_EditorClassIdentifier: 
+  m_screwsRemoved: {fileID: 11400000, guid: b83596b2a79d21245a75727ecc6d7ea6, type: 2}
+  m_wiresPlugged: {fileID: 11400000, guid: 415fab0b6c5622842ae962512642271d, type: 2}
+  m_csrewCount: 0
+  m_correctWires: 0
+  m_combinations:
+  - topColor: 0
+    bottomColor: 3
+  - topColor: 1
+    bottomColor: 4
+  - topColor: 2
+    bottomColor: 0
+  - topColor: 3
+    bottomColor: 1
+  - topColor: 4
+    bottomColor: 2
